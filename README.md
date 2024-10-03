@@ -36,3 +36,6 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 ### Display the result of Hough transform
 
 ![output](https://raw.githubusercontent.com/Girithickrohan/Edge-Linking-using-Hough-Transformm/refs/heads/main/4.png)
+
+## Result:
+Thus, the program to detect the lines using Hough Transform implemented successfully.
